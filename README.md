@@ -15,7 +15,7 @@
   <a href="https://github.com/naveen457?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=naveen457&style=flat-square&color=0ea5e9&label=PROFILE+VIEWS" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=naveen457&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 
 </div>
 
@@ -119,7 +119,7 @@ I'm a Computer Science undergraduate at **VIT-AP University (2027)** focused on 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=naveen457&theme=tokyo-night&hide_border=true" alt="GitHub activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=naveen457&theme=github&hide_border=true&area=true" alt="GitHub activity graph" />
 </div>
 
 ## 🌱 Learning & Exploring
